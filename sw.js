@@ -6,7 +6,7 @@
 //
 // IMPORTANT: when you change index.html (or any file below), bump the
 // version number, e.g. "pr-board-v2". That tells phones to grab the new files.
-const CACHE = "pr-board-v16";
+const CACHE = "pr-board-v17";
 
 const APP_FILES = [
   "./",
